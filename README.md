@@ -1,0 +1,2 @@
+# ushpd-core-out
+core
